@@ -6,22 +6,6 @@
 * The Truthful Art (Alberto Cairo)
 * Data Visualisation (Andy Kirk)
 
-## Knowledge
-* [A tour through the visualization zoo](https://homes.cs.washington.edu/~jheer/files/zoo/)
-
-### Blogs and web sites
-* [Flowing Data](http://flowingdata.com/)
-* [Visualising Data](http://www.visualisingdata.com/)
-
-## Datasets
-* [Cigarette consumption and others](http://koaning.io/fun-datasets.html)
-* [100 interesting datasets](http://rs.io/100-interesting-data-sets-for-statistics/)
-* [17 dataset aggregations](https://www.dataquest.io/blog/free-datasets-for-projects/)
-* [US Open Data Portal](https://www.data.gov/)
-* [The World Bank Open Data](http://data.worldbank.org/)
-* [Google Trends data](http://googletrends.github.io/data/)
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
-
 ## Software
 [A list of tools](http://selection.datavisualization.ch/)
 [Exhaustive resource list](http://www.visualisingdata.com/resources/)
@@ -46,9 +30,24 @@
 | R | [ggplot2]() |
 | Processing | [Main page](https://processing.org/) |
 
-## Interesting pieces
+## Some Datasets
+* [Cigarette consumption and others](http://koaning.io/fun-datasets.html)
+* [100 interesting datasets](http://rs.io/100-interesting-data-sets-for-statistics/)
+* [17 dataset aggregations](https://www.dataquest.io/blog/free-datasets-for-projects/)
+* [US Open Data Portal](https://www.data.gov/)
+* [The World Bank Open Data](http://data.worldbank.org/)
+* [Google Trends data](http://googletrends.github.io/data/)
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
+
+## Extras
+### Interesting pages
 * [45 ways to communicate two quantities](http://www.scribblelive.com/blog/2012/07/27/45-ways-to-communicate-two-quantities/)
 * [Collect and visualize personal data](https://bothan.io/)
 * [One chart, 12 tools](http://lisacharlotterost.github.io/2016/05/17/one-chart-tools/)
 * [One chart, 12 libraries](http://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
 * [Vizipedia, a collecition of chart types](http://www.vizipedia.com/)
+* [A tour through the visualization zoo](https://homes.cs.washington.edu/~jheer/files/zoo/)
+
+### Blogs and web sites
+* [Flowing Data](http://flowingdata.com/)
+* [Visualising Data](http://www.visualisingdata.com/)
