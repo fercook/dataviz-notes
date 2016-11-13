@@ -24,18 +24,23 @@
 ### User tools
 * [Tableau Public](https://public.tableau.com/s/), [Tableau training](http://www.tableau.com/es-es/learn/training)
 * [RAW](http://raw.densitydesign.org/)
+
 ### Data manipulation
 * [CSV manipulation csvkit](https://csvkit.readthedocs.io/en/0.9.1/)
 * [Python Pandas]()
+
 ### Developer tools
 #### Python: 
 * [Matplotlib]()
 * [Bokeh]()
+
 #### Javascript 
 * [D3.js]()
 * [Charts.js](http://www.chartjs.org/)
 * [Google Charts](https://developers.google.com/chart/)
+
 #### Processing
 * [Main page](https://processing.org/)
+
 #### R
 * [ggplot2]()
