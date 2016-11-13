@@ -8,6 +8,7 @@
 
 ## Knowledge
 * [A tour through the visualization zoo](https://homes.cs.washington.edu/~jheer/files/zoo/)
+
 ### Blogs and web sites
 * [Flowing Data](http://flowingdata.com/)
 * [Visualising Data](http://www.visualisingdata.com/)
@@ -19,6 +20,7 @@
 * [US Open Data Portal](https://www.data.gov/)
 * [The World Bank Open Data](http://data.worldbank.org/)
 * [Google Trends data](http://googletrends.github.io/data/)
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## Software
 [A list of tools](http://selection.datavisualization.ch/)
@@ -31,6 +33,7 @@
 
 ### Data manipulation
 * [CSV manipulation csvkit](https://csvkit.readthedocs.io/en/0.9.1/)
+* [Open Refine](http://openrefine.org/)
 * [Python Pandas]()
 * [R]()
 * [JSONLint]()
@@ -43,4 +46,9 @@
 | R | [ggplot2]() |
 | Processing | [Main page](https://processing.org/) |
 
-
+## Interesting pieces
+* [45 ways to communicate two quantities](http://www.scribblelive.com/blog/2012/07/27/45-ways-to-communicate-two-quantities/)
+* [Collect and visualize personal data](https://bothan.io/)
+* [One chart, 12 tools](http://lisacharlotterost.github.io/2016/05/17/one-chart-tools/)
+* [One chart, 12 libraries](http://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
+* [Vizipedia, a collecition of chart types](http://www.vizipedia.com/)
