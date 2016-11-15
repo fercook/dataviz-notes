@@ -8,6 +8,7 @@
 
 ## Software
 [A list of tools](http://selection.datavisualization.ch/)
+
 [Exhaustive resource list](http://www.visualisingdata.com/resources/)
 
 ### User tools
