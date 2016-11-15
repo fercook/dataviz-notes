@@ -17,21 +17,21 @@
 * [Google Charts](https://developers.google.com/chart/)
 
 ### Data manipulation
-* [CSV manipulation csvkit](https://csvkit.readthedocs.io/en/0.9.1/)
-* [Open Refine](http://openrefine.org/)
-* [Python Pandas]()
-* [R]()
-* [JSONLint]()
+* Manipulate CSV and JSON data with the [CSV manipulation csvkit](https://csvkit.readthedocs.io/en/0.9.1/)
+* Clean up and order data tables with [Open Refine](http://openrefine.org/)
+* Full data processing and machine learning with [Python Pandas](http://pandas.pydata.org/) (and [a good book about it](https://www.amazon.es/Python-Data-Analysis-Wrangling-IPython/dp/1449319793))
+* Data processing for the statistics minded with [R](https://www.r-project.org/)
+* If you write a JSON file by hand make sure it's ok with [JSONLint](http://jsonlint.com/)
 
 ### Developer tools
 |Language | Tools |
 |--- | --- | 
 |Python | [Matplotlib]()<br/> [Bokeh](http://bokeh.pydata.org/en/latest/) |
-|Javascript | D3<br/>[Charts.js](http://www.chartjs.org/)|
-| R | [ggplot2]() |
+|Javascript | [D3.js](https://d3js.org/)<br/>[Charts.js](http://www.chartjs.org/)|
+| R | [ggplot2](http://ggplot2.org/) |
 | Processing | [Main page](https://processing.org/) |
 
-## Some Datasets
+## Some Datasets for the course
 * [Cigarette consumption and others](http://koaning.io/fun-datasets.html)
 * [100 interesting datasets](http://rs.io/100-interesting-data-sets-for-statistics/)
 * [17 dataset aggregations](https://www.dataquest.io/blog/free-datasets-for-projects/)
