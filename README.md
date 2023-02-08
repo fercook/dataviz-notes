@@ -15,6 +15,9 @@
 * [Tableau Public](https://public.tableau.com/s/), [Tableau training](http://www.tableau.com/es-es/learn/training)
 * [RAW](http://raw.densitydesign.org/)
 * [Google Charts](https://developers.google.com/chart/)
+* [Flourish](https://flourish.studio/)
+* [DataWrapper]()
+* [Graphica](https://graphica.app/)
 
 ### Data manipulation
 * Manipulate CSV and JSON data with the [CSV manipulation csvkit](https://csvkit.readthedocs.io/en/0.9.1/)
@@ -22,11 +25,12 @@
 * Full data processing and machine learning with [Python Pandas](http://pandas.pydata.org/) (and [a good book about it](https://www.amazon.es/Python-Data-Analysis-Wrangling-IPython/dp/1449319793))
 * Data processing for the statistics minded with [R](https://www.r-project.org/)
 * If you write a JSON file by hand make sure it's ok with [JSONLint](http://jsonlint.com/)
+* Tableau Prep, or...Excel (and Google Sheets ofc)
 
 ### Developer tools
 |Language | Tools |
 |--- | --- | 
-|Python | [Matplotlib]()<br/> [Bokeh](http://bokeh.pydata.org/en/latest/) |
+|Python | [Matplotlib]()<br/> [Graph Gallery](https://www.python-graph-gallery.com/) |
 |Javascript | [D3.js](https://d3js.org/)<br/>[Charts.js](http://www.chartjs.org/)|
 | R | [ggplot2](http://ggplot2.org/) |
 | Processing | [Main page](https://processing.org/) |
