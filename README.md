@@ -1,4 +1,4 @@
-# Notes for the Dataviz course / BSC 2016
+# Notes for the Dataviz course / BSC
 
 ## Bibiography
 * Visualisation Analysis and Design (Tamara Munzner) [Figures and slides here](https://www.cs.ubc.ca/~tmm/vadbook/)
